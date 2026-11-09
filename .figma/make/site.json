@@ -1,0 +1,10 @@
+{
+  "description": "Displays a minimalist single-page interface with an interactive circular menu button featuring animated text that enhances user engagement with custom colors.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
